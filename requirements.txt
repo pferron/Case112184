@@ -254,7 +254,7 @@ pandasql==0.7.3
     # via env (setup.py)
 pandocfilters==1.5.0
     # via nbconvert
-paramiko==3.1.0
+paramiko==3.4.0
     # via
     #   junos-eznc
     #   ncclient
